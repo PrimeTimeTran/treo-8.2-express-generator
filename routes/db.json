@@ -8,7 +8,7 @@
     "country": "USA",
     "job_title": "Programmer",
     "company": "CoderSchool",
-    "salary": "$$5000.00",
+    "salary": "$5000.00",
     "university": "Florida State University",
     "birth_date": "07/22/1987",
     "codes_daily": "Often",
@@ -16046,5 +16046,17 @@
         "city": "São Tomé"
       }
     ]
+  },
+  {
+    "first_name": "Loi",
+    "job_title": "Programmer",
+    "id": 501
+  },
+  {
+    "first_name": "Majid",
+    "job_title": "Programmer",
+    "id": 502,
+    "ethnicity": "Asian",
+    "gender": "girl"
   }
 ]
